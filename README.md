@@ -102,17 +102,4 @@ Column names for table users: [id, username, password, email]
 3. **测试环境**: 建议在测试环境中使用
 4. **网络延迟**: 时间盲注可能受网络延迟影响
 
-## 技术实现
 
-- 使用Go标准库进行HTTP请求
-- 支持多种SQL注入payload
-- 智能响应解析和数据提取
-- 错误处理和重试机制
-
-## 贡献
-
-欢迎提交Issue和Pull Request来改进这个工具。
-
-## 许可证
-
-MIT License
